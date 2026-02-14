@@ -129,7 +129,7 @@ display: inline-block;
 }
 
 .final-text{
-    font-size: 18px;
+    font-size: 10px;
     line-height: 1.4;
     text-align: center;
     display: inline-block;
@@ -137,6 +137,7 @@ display: inline-block;
     background-color: rgba(255,240,240,0.5);
     border-radius: 12px;
 }
+
 
 
 
